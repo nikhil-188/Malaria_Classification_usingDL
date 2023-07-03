@@ -39,14 +39,18 @@ https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
   the class of an image when the user inputs to our model
 
 **Accuracy and loss graphs for CNN**
+
 ![image](https://github.com/nikhil-188/Malaria_Classification_usingDL/assets/84719583/283f0ed9-b4cc-426a-81e3-2e85c8a586d6)
 
 **Accuracy and loss graphs for VGG16**
+
 ![image](https://github.com/nikhil-188/Malaria_Classification_usingDL/assets/84719583/62453660-d225-4d83-b63c-5a3b74e213f6)
 
 **Accuracy and loss graphs for VGG19**
+
 ![image](https://github.com/nikhil-188/Malaria_Classification_usingDL/assets/84719583/ee4591df-ba11-4031-b9be-204ef59a7aa9)
 
 **Accuracy of the three models**
+
 ![image](https://github.com/nikhil-188/Malaria_Classification_usingDL/assets/84719583/6885396e-a1dc-4a84-b1e1-04c10bc69439)
 
